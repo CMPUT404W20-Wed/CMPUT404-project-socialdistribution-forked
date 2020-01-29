@@ -7,6 +7,14 @@ See project.org (plain-text/org-mode) for a description of the project.
 
 Make a distributed social network!
 
+Group Members
+========================
+    maoued
+    jdorn
+    nkryzano
+    guzhva
+    sdupasqu
+
 Contributors / Licensing
 ========================
 
